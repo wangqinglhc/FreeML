@@ -8,6 +8,7 @@ Hope the list is helpful, especially to whom are not in CS major but interested 
 ## Table of Contents
 
 * [One Month Plan](#one-month-plan)
+* [Data Science](#data-science)
 * [Machine Learning](#machine-learning)
 * [Natural Language Processing](#natural-language-processing)
 * [Deep Learning](#deep-learning)
@@ -29,6 +30,15 @@ You may find the list overwhelming. Here is my suggestion if you want to have so
   * Stanford Statistical Learning ([Course page](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)) or Coursera Stanford by Andrew Ng ([Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN))
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)  
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
+
+***
+
+## Data Science:
+
+### - Tutorials:
+  * Feature Engineering and Selection: A Practical Approach for Predictive Models: [Link])(http://www.feat.engineering/index.html)
+
+***
 
 ## Machine Learning:
 
@@ -52,8 +62,7 @@ Statistical Learning is the introduction course. It is free to earn a certificat
 
 ***
 
-
-## Natural Language Processing: 
+## Natural Language Processing:
 ### - Videos:
   * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
   * Stanford - CS224n Natural Language Processing with Deep Learning: [Course web](http://web.stanford.edu/class/cs224n/), [Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
@@ -92,10 +101,10 @@ Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL
   * FAST.ai: [Course](http://www.fast.ai/)
 
 ### - Books:
-  * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
+  * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book.
   * ArXiv for research updates: https://arxiv.org/. I found it the mobile version of Feedly is useful to follow ArXiv. Also, try https://deeplearn.org/ or http://www.arxiv-sanity.com/top.
 
-### - Other: 
+### - Other:
   * LSTM: [My collection](https://www.linkedin.com/pulse/ml-4-shujian-liu/)
 
 ### - Comments:
@@ -103,20 +112,20 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 
 ***  
-  
-  
-  
-  
+
+
+
+
 ## Systems:
   * Docker Mastery: [Udemy](https://www.udemy.com/docker-mastery/learn/v4/overview)
   * The Ultimate Hands-On Hadoop: [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/learn/v4/overview)  
   * Spark and Python for Big Data with PySpark: [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4)
-  
-  
-  
-  
+
+
+
+
 ***
-  
+
 ## Analytics:
   * Lean Analytics: [Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/B00AG66LTM/)
   * Data Science for Business: [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
@@ -133,33 +142,33 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 ## Reinforcement Learning:
 ### - Videos:
-  * Udacity: [Course](https://www.udacity.com/course/reinforcement-learning--ud600) 
+  * Udacity: [Course](https://www.udacity.com/course/reinforcement-learning--ud600)
   * UCL Course on RL by David Silver: [Course page](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-  * CS 294: Deep Reinforcement Learning by UC Berkeley, Fall 2017: [Course page](http://rll.berkeley.edu/deeprlcourse/) 
+  * CS 294: Deep Reinforcement Learning by UC Berkeley, Fall 2017: [Course page](http://rll.berkeley.edu/deeprlcourse/)
 ### - Books:
   * Reinforcement Learning: An Introduction (2nd): [pdf](http://incompleteideas.net/book/the-book-2nd.html)
 
 
 
-  
-  
+
+
 ***  
-  
-  
-  
-  
+
+
+
+
 ## Others:
-  * Recommender System by UMN: [Coursera](https://www.coursera.org/specializations/recommender-systems) 
+  * Recommender System by UMN: [Coursera](https://www.coursera.org/specializations/recommender-systems)
   * Mining Massive Datasets by Stanford: [Free book](http://www.mmds.org/), [Course](http://online.stanford.edu/course/mining-massive-datasets-self-paced)
   * Introduction to Algorithms by MIT: [Course page with videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
   * Database by Stanford: [Course](http://online.stanford.edu/course/databases-self-paced)
   * How to Win a Data Science Competition: [Coursera](https://www.coursera.org/learn/competitive-data-science)
   * How to finish a Data Challenge: [Kaggle EDA kernels](https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20)
-  
-  
-*** 
-  
-  
+
+
+***
+
+
 ## Interviews:
 
 
@@ -172,12 +181,12 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * 30 Questions to test a data scientist on Natural Language Processing [Link](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * Questions on Stackoverflow: [Link](https://stackoverflow.com/questions/tagged/machine-learning?sort=votes&pageSize=15)
   * Compare two models: [My collection](https://www.linkedin.com/pulse/ml-2-shujian-liu/)
-  
+
 ### - Without Solutions:
   * Over 100 Data Science Interview Questions [Link](http://www.learndatasci.com/data-science-interview-questions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * 20 questions to detect fake data scientists [Link](https://www.import.io/post/20-questions-to-detect-fake-data-scientists/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * Question on Glassdoor: [link](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14.htm)
-  
+
 
 
 
@@ -186,7 +195,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 # Topics to Learn ->
 
-*** 
+***
 
 ## Bayesian:
 ### - Courses:
@@ -200,7 +209,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 
 
-*** 
+***
 
 
 
@@ -218,9 +227,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * More: https://machinelearningmastery.com/?s=Time+Series&submit=Search
 
 
-
-*** 
-
+***
 
 
 ## Quant:
@@ -234,8 +241,6 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 ### - Other:
   * A Collection of Dice Problems: [pdf](http://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf)
-
-
 
 ***
 
