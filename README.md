@@ -1,14 +1,15 @@
-# Data Science Resources (Mostly Free)
+# Data Science Resources
 
 The first half is more or less my learning path in the past two years while the second half is my plan for this year. I tried to make a balance between comprehension and doability. For more extensive lists, you can check [Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=) or [CS video lectures](https://github.com/Developer-Y/cs-video-courses)
 
 Hope the list is helpful, especially to whom are not in CS major but interested in data science!
 
+
 ***
 ## Table of Contents
 
 * [One Month Plan](#one-month-plan)
-* [Data Science](#data-science)
+* [Practical Data Science](#practical-data-science)
 * [Machine Learning](#machine-learning)
 * [Natural Language Processing](#natural-language-processing)
 * [Deep Learning](#deep-learning)
@@ -24,22 +25,21 @@ Hope the list is helpful, especially to whom are not in CS major but interested 
 
 ***
 ## One Month Plan:
-
 You may find the list overwhelming. Here is my suggestion if you want to have some basic understanding in one month:
   * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
   * Stanford Statistical Learning ([Course page](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)) or Coursera Stanford by Andrew Ng ([Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN))
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)  
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
 
-***
 
-## Data Science:
+***
+## Practical Data Science:
 
 ### - Tutorials:
-  * Feature Engineering and Selection: A Practical Approach for Predictive Models: [Link])(http://www.feat.engineering/index.html)
+  * Feature Engineering and Selection: A Practical Approach for Predictive Models: [Link](http://www.feat.engineering/index.html)
+
 
 ***
-
 ## Machine Learning:
 
 ### - Videos:
@@ -60,8 +60,8 @@ http://cs229.stanford.edu/syllabus.html)
 ### - Comments:
 Statistical Learning is the introduction course. It is free to earn a certificate. It follows Introduction to Statistical Learning book closely. Coursera Stanford by Andrew Ng is another introduction course course and quite popular. Taking either of them is enough for most of data science positions. People want to go deeper can take 229 or 701 and read ESL book.
 
-***
 
+***
 ## Natural Language Processing:
 ### - Videos:
   * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
@@ -87,8 +87,8 @@ The basic NLP course by Stanford is the fundamental one. SLP 3ed follows this co
 ### - More:
 Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL-NLP](https://github.com/brianspiering/awesome-dl4nlp), [Speech and NLP](https://github.com/edobashira/speech-language-processing), [Speech](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers), [RNN](https://github.com/kjw0612/awesome-rnn)
 
-***
 
+***
 ## Deep Learning
 
 ### - Videos:
@@ -112,20 +112,13 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 
 ***  
-
-
-
-
 ## Systems:
   * Docker Mastery: [Udemy](https://www.udemy.com/docker-mastery/learn/v4/overview)
   * The Ultimate Hands-On Hadoop: [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/learn/v4/overview)  
   * Spark and Python for Big Data with PySpark: [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4)
 
 
-
-
 ***
-
 ## Analytics:
   * Lean Analytics: [Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/B00AG66LTM/)
   * Data Science for Business: [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
@@ -133,13 +126,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * Storytelling with Data: [Amazon](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
 
 
-
-
 ***
-
-
-
-
 ## Reinforcement Learning:
 ### - Videos:
   * Udacity: [Course](https://www.udacity.com/course/reinforcement-learning--ud600)
@@ -149,14 +136,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * Reinforcement Learning: An Introduction (2nd): [pdf](http://incompleteideas.net/book/the-book-2nd.html)
 
 
-
-
-
 ***  
-
-
-
-
 ## Others:
   * Recommender System by UMN: [Coursera](https://www.coursera.org/specializations/recommender-systems)
   * Mining Massive Datasets by Stanford: [Free book](http://www.mmds.org/), [Course](http://online.stanford.edu/course/mining-massive-datasets-self-paced)
@@ -167,10 +147,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 
 ***
-
-
 ## Interviews:
-
 
 ### - Lists with Solutions:
   * 111 Data Science Interview Questions & Detailed Answers: [Link](https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
@@ -188,15 +165,11 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * Question on Glassdoor: [link](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14.htm)
 
 
-
-
-
 ***
-
 # Topics to Learn ->
 
-***
 
+***
 ## Bayesian:
 ### - Courses:
   * Bayesian Statistics: From Concept to Data Analysis: [Coursera](https://www.coursera.org/learn/bayesian-statistics)
@@ -208,11 +181,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * Applied Predictive Modeling
 
 
-
 ***
-
-
-
 ## Time series:
 ### - Courses:
   * Time Series Forecasting (Udacity): [Udacity](https://www.udacity.com/course/time-series-forecasting--ud980)
@@ -228,8 +197,6 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 
 ***
-
-
 ## Quant:
 ### - Books:
   * Heard on the Street: Quantitative Questions from Wall Street Job Interviews by Timothy Falcon Crack: [Amazon]( https://www.amazon.com/Heard-Street-Quantitative-Questions-Interviews/dp/0994138636/)
@@ -242,9 +209,8 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 ### - Other:
   * A Collection of Dice Problems: [pdf](http://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf)
 
+
 ***
-
-
 ## More:
   * Computer Science courses with video lectures: https://github.com/Developer-Y/cs-video-courses
   * The Open Source Data Science Masters: http://datasciencemasters.org
