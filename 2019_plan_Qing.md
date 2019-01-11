@@ -4,10 +4,29 @@
 - [Stanford CS231n CNN](http://cs231n.stanford.edu/)
 - [A/B testing by Google on Udacity](https://eu.udacity.com/course/ab-testing--ud257)
 - [Stanford CS224n NLP using deep learning](http://web.stanford.edu/class/cs224n/)
+- [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
+- ... below are for reference and review:
 - 
 
 
 ## Books
 - Elements of Statistical Learning
 - Reinforcement Learning: An Introduction
+- 
+- ... below are for reference and review:
+- ISLR
+- Pattern Recognition And Machine Learning
+- fifty_challenging_problems_in_probability
+- 
+
+## Podcasts on Case Study, Product Sense
+- [Victor Cheng's case study interview](https://www.ximalaya.com/shangye/6414597/)
+- The Product Podcast by Product School
+
+## Review and Practice Programming on Leetcode (And other resources for SQL problems such as Hackerrank..)
+- Progress 297/966 (Jan 11) (Mostly sloved in C++, try to use Python)
+
+## Practice on Data Analysis and Projects
+- Kaggle
+- A Collection of Data Science Take-Home Challenges
 - 
