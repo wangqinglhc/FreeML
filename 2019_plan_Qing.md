@@ -1,4 +1,5 @@
 # Study plan for year 2019 (to be updated frequently)
+(Last update: Jan 11)
 
 ## Online courses
 - [Stanford CS231n CNN](http://cs231n.stanford.edu/)
