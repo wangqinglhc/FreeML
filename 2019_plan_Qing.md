@@ -4,19 +4,21 @@
 - [Stanford CS231n CNN](http://cs231n.stanford.edu/)
 - [A/B testing by Google on Udacity](https://eu.udacity.com/course/ab-testing--ud257)
 - [Stanford CS224n NLP using deep learning](http://web.stanford.edu/class/cs224n/)
-- [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
+- Dynamic programming by Jiuzhang
 - ... below are for reference and review:
-- 
+- [Machine learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
 
 ## Books
 - Elements of Statistical Learning
 - Reinforcement Learning: An Introduction
+- [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
 - 
 - ... below are for reference and review:
 - ISLR
 - Pattern Recognition And Machine Learning
 - fifty_challenging_problems_in_probability
+- Practicle guide for quantitative finance interviews
 - 
 
 ## Podcasts on Case Study, Product Sense
