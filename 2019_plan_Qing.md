@@ -14,7 +14,7 @@
 - Elements of Statistical Learning
 - Reinforcement Learning: An Introduction --Ongoing
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/) --Ongoing
--  
+- Cracking the Interviews for Product Manager
 - ... below are for reference and review:
 - ISLR
 - Pattern Recognition And Machine Learning
