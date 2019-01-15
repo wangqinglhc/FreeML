@@ -15,7 +15,7 @@
 - Reinforcement Learning: An Introduction --Ongoing
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/) --Done
 - Cracking the Interviews for Product Manager --Ongoing
-- 数理统计（第二版），韦来生
+- 数理统计（Statistics)
 - ... below are for reference and review:
 - ISLR
 - Pattern Recognition And Machine Learning
