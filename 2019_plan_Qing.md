@@ -18,6 +18,7 @@
 - 数理统计（Statistics),韦来生，第二版
 - Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft) 
 - Yoav Goldberg. A Primer on Neural Network Models for Natural Language Processing
+- How to lie with statistics
 - ... below are for reference and review:
 - ISLR
 - Pattern Recognition And Machine Learning
