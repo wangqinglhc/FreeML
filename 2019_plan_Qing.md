@@ -1,11 +1,11 @@
 # Study plan for year 2019 (to be updated frequently)
-(Last update: Jan 15)
+(Last update: Feb 11)
 
 ## Online courses
 - [Stanford CS231n CNN](http://cs231n.stanford.edu/)
 - [A/B testing by Google on Udacity](https://eu.udacity.com/course/ab-testing--ud257) 
 - [Stanford CS224n NLP using deep learning](http://web.stanford.edu/class/cs224n/) --Ongoing
-- Dynamic programming by Jiuzhang --Ongoing
+- Dynamic programming by Jiuzhang --Done
 - ... below are for reference and review:
 - [Machine learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
