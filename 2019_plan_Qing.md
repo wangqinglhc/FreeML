@@ -2,7 +2,7 @@
 (Last update: May 20)
 
 ## Online courses
-- [Stanford CS231n CNN](http://cs231n.stanford.edu/)
+- [Stanford CS231n CNN](http://cs231n.stanford.edu/) -- Done
 - [A/B testing by Google on Udacity](https://eu.udacity.com/course/ab-testing--ud257) 
 - [Stanford CS224n NLP using deep learning](http://web.stanford.edu/class/cs224n/) --Ongoing
 - Dynamic programming by Jiuzhang --Done
@@ -31,7 +31,7 @@
 - The Product Podcast by Product School
 
 ## Review and Practice Programming on Leetcode (And other resources for SQL problems such as Hackerrank..)
-- Progress 313/966 (Jan 11) (Mostly sloved in C++, try to use Python)
+- Progress 314/1270 (Jan 11) (Python)
 
 ## Practice on Data Analysis and Projects
 - Kaggle
